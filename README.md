@@ -1125,3 +1125,9 @@ Because the analog hardware has already stripped away the massive 1.5 GHz carrie
 ---
 
 
+
+---
+### Author / Lead Engineer
+**Rahul Soni**  
+*Systems Architect / DSP Engineer*  
+[GitHub: @rahulsoni0361](https://github.com/rahulsoni0361) | [Elex Research](https://elexresearch.com)

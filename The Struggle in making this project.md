@@ -47,3 +47,4 @@ Because my NCO used a Block RAM (BRAM) for the lookup table, the BRAM inherently
 I created a simple 2-stage shift register (`delay_line`) for the incoming I/Q data path. This delayed the raw RF data just enough to perfectly align with the 2-cycle latency of the BRAM lookup. 
 
 I hit synthesize, generated the bitstream, and ran the tracker on the hardware. Seeing that perfect, needle-sharp Prompt correlation peak on the plot was one of the most satisfying moments of my engineering career. All the struggle was worth it.
+ 
